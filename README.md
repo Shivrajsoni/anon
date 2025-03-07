@@ -1,4 +1,4 @@
-# anon
+# projects 
  Like Napster but with smart contracts for ownership & micropayments.
 How it Works:
 	1.	Users upload their music files.
